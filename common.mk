@@ -210,3 +210,5 @@ PRODUCT_PACKAGES += \
     XiaomiParts \
     init.xiaomiparts.rc \
     init.xiaomiparts.sh
+
+export SKIP_ABI_CHECKS := true
